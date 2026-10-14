@@ -1,6 +1,5 @@
 import java.math.BigInteger;
 
-/** Мінімальні автономні перевірки методу Main.karatsuba без JUnit і Maven. */
 public class KaratsubaTest {
 
     private static int passed = 0;
