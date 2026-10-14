@@ -3,21 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b6572580-3510-454b-8695-98337332c755" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_05.1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_05.1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab_05.2/Labs_05.2.1/Labs_05.2.1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_05.2/Labs_05.2.1/Labs_05.2.1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab_05.2/Labs_05.2.1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_05.2/Labs_05.2.1/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab_05.2/Labs_05.2.2/Labs_05.2.2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_05.2/Labs_05.2.2/Labs_05.2.2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab_05.2/Labs_05.2.2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_05.2/Labs_05.2.2/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab_05.3/Lab_05.3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_05.3/Lab_05.3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab_05.3/out/production/Lab_05.3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_05.3/out/production/Lab_05.3/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab_05.3/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_05.3/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab_05.4/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_05.4/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab_05.4/Labs_05.4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_05.4/Labs_05.4.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab_05.4/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_05.4/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab_05.5/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_05.5/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab_05.5/Lab_05.5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_05.5/Lab_05.5.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab_05.5/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_05.5/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_05.5/Lab_05.5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_05.5/Lab_05.5/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,19 +33,6 @@
     &quot;last_opened_file_path&quot;: &quot;/home/twelwe/Labs_AP/Labs_05/Lab_05.3&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="Lab_05.1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="Lab_05.1" />
-      <option name="filePath" />
-      <method v="2" />
-    </configuration>
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="b6572580-3510-454b-8695-98337332c755" name="Changes" comment="" />

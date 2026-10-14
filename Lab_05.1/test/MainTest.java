@@ -11,11 +11,4 @@ public class MainTest {
         checkNear("g(0, 0)", 0.0, Main.g(0, 0));
         checkNear("g(pi/2, 0)", 1.0, Main.g(Math.PI / 2, 0));
     }
-            throw new AssertionError(name + ": expected " + expected + ", got " + actual);
-}
-        System.out.println("PASS: " + name);
-    }
-
-public static void main(String[] args) {
-    checkNear("g(0, 0)", 0.0, Main.g(0, 0));
 }
