@@ -12,9 +12,9 @@ public class MainTest {
         int n = 15;
         double expected = Main.S0(k, n);
 
-        checkNear("recursive increasing return", expected, Main.S1(k, n, k));
-        checkNear("recursive decreasing return", expected, Main.S2(k, n, n));
-        checkNear("recursive increasing accumulator", expected, Main.S3(k, n, k, 0));
-        checkNear("recursive decreasing accumulator", expected, Main.S4(k, n, n, 0));
+        checkNear("(rec up ++)    S1", expected, Main.S1(k, n, k));
+        checkNear("(rec up --)    S2", expected, Main.S2(k, n, n));
+        checkNear("(rec down ++)  S3", expected, Main.S3(k, n, k, 0));
+        checkNear("(rec down --)  S4", expected, Main.S4(k, n, n, 0));
     }
 }
